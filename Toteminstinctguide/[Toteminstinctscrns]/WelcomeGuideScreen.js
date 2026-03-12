@@ -9,7 +9,7 @@ const TOTEM_GUIDE_SLIDES = [
     image: require('../TotemAssets/i/oboard/1.png'),
     title: 'Find Your Wolf Totem',
     description:
-      'Your voice and your look reveal who you truly are. Test your instinct through sound or photo and find the animal that matches your inner nature.',
+      'Your voice and your look reveal who you truly are. Test your instinct through sound or personality traits and find the animal that matches your inner nature.',
     buttonText: 'Next',
   },
   {
@@ -23,9 +23,9 @@ const TOTEM_GUIDE_SLIDES = [
   {
     id: 'slide-3',
     image: require('../TotemAssets/i/oboard/3.png'),
-    title: 'Voice or Photo Test',
+    title: 'Voice or Personality traits Test',
     description:
-      'Roar, growl, or show your expression — or upload a photo and choose what feels closest to you. Our system compares patterns to determine your true totem animal.',
+      'Roar, growl, or show your expression — or upload a picture and choose what feels closest to you. Our system compares patterns to determine your true totem animal.',
     buttonText: 'Continue',
   },
   {
@@ -33,7 +33,7 @@ const TOTEM_GUIDE_SLIDES = [
     image: require('../TotemAssets/i/oboard/4.png'),
     title: 'Attention game',
     description:
-      'Test your memory and concentration. For a few seconds you will see animals in a certain order. Remember their location. Then arrange them in the same order. The game has 3 rounds — with each round the time will be less and less.',
+      'Test your focus and concentration. For a few seconds you will see animals in a certain order. Remember their location. Then arrange them in the same order. The game has 3 rounds — with each round the time will be less and less.',
     buttonText: 'Start',
   },
   {

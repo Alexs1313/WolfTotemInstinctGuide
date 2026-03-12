@@ -24,7 +24,7 @@ const PhotoModeIntro = ({ navigation }) => {
       >
         <View style={styles.totemGuideHeaderTitleRow}>
           <Text style={styles.totemGuideHeaderTitleText}>
-            Photo totem beast
+            Traits totem beast
           </Text>
         </View>
       </LinearGradient>

@@ -1,10 +1,5 @@
 import React, { useMemo } from 'react';
-import {
-  Image,
-  Text,
-  TouchableOpacity,
-  View,
-} from 'react-native';
+import { Image, Text, TouchableOpacity, View } from 'react-native';
 import LinearGradient from 'react-native-linear-gradient';
 
 const REF_WIDTH = 375;
@@ -86,10 +81,10 @@ const PhotoModeIntroCard = ({ onGoPress }) => {
 
       <LinearGradient colors={['#FBDFBC', '#FAC57F']} style={s.card}>
         <View style={s.cardPadding}>
-          <Text style={s.cardTitle}>Photo mode</Text>
+          <Text style={s.cardTitle}>Traits mode</Text>
           <Text style={s.cardDescription}>
-            Upload a photo and select your personality type and we will
-            determine your totem animal
+            Discover your totem animal by selecting the traits that describe
+            your personality and instincts.
           </Text>
 
           <TouchableOpacity

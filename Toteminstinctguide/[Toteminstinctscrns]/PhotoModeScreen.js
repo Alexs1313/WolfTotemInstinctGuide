@@ -161,7 +161,7 @@ const PhotoModeScreen = ({ navigation }) => {
               <View style={styles.totemGuidePhotoAddIconWrap}>
                 <Image source={require('../TotemAssets/i/addImg.png')} />
               </View>
-              <Text style={styles.totemGuidePhotoAddLabel}>Add your photo</Text>
+              <Text style={styles.totemGuidePhotoAddLabel}>Add a picture</Text>
             </>
           )}
         </TouchableOpacity>
