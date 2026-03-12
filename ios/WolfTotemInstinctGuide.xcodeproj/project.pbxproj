@@ -8,18 +8,18 @@
 
 /* Begin PBXBuildFile section */
 		0C80B921A6F3F58F76C31292 /* libPods-WolfTotemInstinctGuide.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-WolfTotemInstinctGuide.a */; };
-		0CCDDAA084224F8E86C1F399 /* Ubuntu-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 99BD5F58D5294321BFD9732B /* Ubuntu-LightItalic.ttf */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
-		4B9EB15E3B5E450FACDE744E /* Ubuntu-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6C2E849B06584560A7D54549 /* Ubuntu-MediumItalic.ttf */; };
-		6ECD511531D246678B1B304F /* Ubuntu-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D20703558F594978964C7CB3 /* Ubuntu-BoldItalic.ttf */; };
-		71ABFD16518B48FD8FE50418 /* Ubuntu-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = ABFEF0E5D03D481EBD6E807C /* Ubuntu-Bold.ttf */; };
+		59F7DA36F1FE4CCE9C71B8C6 /* Ubuntu-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D7E8C131FA3B43C7AEC79D05 /* Ubuntu-Regular.ttf */; };
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		9339BEA4CC863F45BFDFB2A7 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
-		9EF071903CD14FAA92048935 /* Ubuntu-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5DA5A4A4112047A4B635C384 /* Ubuntu-Medium.ttf */; };
-		B107F4378F294A82AEA3A1DC /* Ubuntu-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FCAF0D38D39D4BBA8E74451B /* Ubuntu-Regular.ttf */; };
-		B721234BD4F24C04979833EF /* Ubuntu-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 295845767AEC47A392A3C718 /* Ubuntu-Italic.ttf */; };
-		DD442CD3EC064A9DAB546229 /* Ubuntu-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 50E28570DB8A4A508AA8C5CB /* Ubuntu-Light.ttf */; };
+		935DA155BEF543748873833C /* Ubuntu-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5E8AD69C260945F58F55F1A3 /* Ubuntu-MediumItalic.ttf */; };
+		ADE2DC18E0B64A5683125413 /* Ubuntu-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D76F1A184017475EAB28F893 /* Ubuntu-Italic.ttf */; };
+		BA917B7A0C5A414382457F1D /* Ubuntu-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 693A0A5D8B6A48248DA065B6 /* Ubuntu-Light.ttf */; };
+		CCDE19FD200343C7BB5CCA61 /* Ubuntu-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F65FD0A6E39648CE95B7D1AE /* Ubuntu-BoldItalic.ttf */; };
+		D4A7BE8CDCAB445AB2DB3F30 /* Ubuntu-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 90B0CE8A1CC247CC9BD5F108 /* Ubuntu-Medium.ttf */; };
+		F1FBD61C81C941B2B0822127 /* Ubuntu-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8E72C83A889F4799B11BC1A8 /* Ubuntu-LightItalic.ttf */; };
+		F9B08444D00A44B98EEDD9D8 /* Ubuntu-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 771F62EC601C44D799689571 /* Ubuntu-Bold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,20 +27,20 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = WolfTotemInstinctGuide/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = WolfTotemInstinctGuide/Info.plist; sourceTree = "<group>"; };
 		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = WolfTotemInstinctGuide/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
-		295845767AEC47A392A3C718 /* Ubuntu-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-Italic.ttf"; path = "../WolfTotemInstinctGuide/TotemAssets/f/Ubuntu-Italic.ttf"; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-WolfTotemInstinctGuide.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WolfTotemInstinctGuide.debug.xcconfig"; path = "Target Support Files/Pods-WolfTotemInstinctGuide/Pods-WolfTotemInstinctGuide.debug.xcconfig"; sourceTree = "<group>"; };
-		50E28570DB8A4A508AA8C5CB /* Ubuntu-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-Light.ttf"; path = "../WolfTotemInstinctGuide/TotemAssets/f/Ubuntu-Light.ttf"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-WolfTotemInstinctGuide.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WolfTotemInstinctGuide.release.xcconfig"; path = "Target Support Files/Pods-WolfTotemInstinctGuide/Pods-WolfTotemInstinctGuide.release.xcconfig"; sourceTree = "<group>"; };
-		5DA5A4A4112047A4B635C384 /* Ubuntu-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-Medium.ttf"; path = "../WolfTotemInstinctGuide/TotemAssets/f/Ubuntu-Medium.ttf"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-WolfTotemInstinctGuide.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-WolfTotemInstinctGuide.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6C2E849B06584560A7D54549 /* Ubuntu-MediumItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-MediumItalic.ttf"; path = "../WolfTotemInstinctGuide/TotemAssets/f/Ubuntu-MediumItalic.ttf"; sourceTree = "<group>"; };
+		5E8AD69C260945F58F55F1A3 /* Ubuntu-MediumItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-MediumItalic.ttf"; path = "../Toteminstinctguide/TotemAssets/f/Ubuntu-MediumItalic.ttf"; sourceTree = "<group>"; };
+		693A0A5D8B6A48248DA065B6 /* Ubuntu-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-Light.ttf"; path = "../Toteminstinctguide/TotemAssets/f/Ubuntu-Light.ttf"; sourceTree = "<group>"; };
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = WolfTotemInstinctGuide/AppDelegate.swift; sourceTree = "<group>"; };
+		771F62EC601C44D799689571 /* Ubuntu-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-Bold.ttf"; path = "../Toteminstinctguide/TotemAssets/f/Ubuntu-Bold.ttf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = WolfTotemInstinctGuide/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		99BD5F58D5294321BFD9732B /* Ubuntu-LightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-LightItalic.ttf"; path = "../WolfTotemInstinctGuide/TotemAssets/f/Ubuntu-LightItalic.ttf"; sourceTree = "<group>"; };
-		ABFEF0E5D03D481EBD6E807C /* Ubuntu-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-Bold.ttf"; path = "../WolfTotemInstinctGuide/TotemAssets/f/Ubuntu-Bold.ttf"; sourceTree = "<group>"; };
-		D20703558F594978964C7CB3 /* Ubuntu-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-BoldItalic.ttf"; path = "../WolfTotemInstinctGuide/TotemAssets/f/Ubuntu-BoldItalic.ttf"; sourceTree = "<group>"; };
+		8E72C83A889F4799B11BC1A8 /* Ubuntu-LightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-LightItalic.ttf"; path = "../Toteminstinctguide/TotemAssets/f/Ubuntu-LightItalic.ttf"; sourceTree = "<group>"; };
+		90B0CE8A1CC247CC9BD5F108 /* Ubuntu-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-Medium.ttf"; path = "../Toteminstinctguide/TotemAssets/f/Ubuntu-Medium.ttf"; sourceTree = "<group>"; };
+		D76F1A184017475EAB28F893 /* Ubuntu-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-Italic.ttf"; path = "../Toteminstinctguide/TotemAssets/f/Ubuntu-Italic.ttf"; sourceTree = "<group>"; };
+		D7E8C131FA3B43C7AEC79D05 /* Ubuntu-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-Regular.ttf"; path = "../Toteminstinctguide/TotemAssets/f/Ubuntu-Regular.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
-		FCAF0D38D39D4BBA8E74451B /* Ubuntu-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-Regular.ttf"; path = "../WolfTotemInstinctGuide/TotemAssets/f/Ubuntu-Regular.ttf"; sourceTree = "<group>"; };
+		F65FD0A6E39648CE95B7D1AE /* Ubuntu-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-BoldItalic.ttf"; path = "../Toteminstinctguide/TotemAssets/f/Ubuntu-BoldItalic.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,17 +79,16 @@
 		395DD0F68CF84DFFA68ACEE9 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				5DA5A4A4112047A4B635C384 /* Ubuntu-Medium.ttf */,
-				99BD5F58D5294321BFD9732B /* Ubuntu-LightItalic.ttf */,
-				FCAF0D38D39D4BBA8E74451B /* Ubuntu-Regular.ttf */,
-				ABFEF0E5D03D481EBD6E807C /* Ubuntu-Bold.ttf */,
-				6C2E849B06584560A7D54549 /* Ubuntu-MediumItalic.ttf */,
-				D20703558F594978964C7CB3 /* Ubuntu-BoldItalic.ttf */,
-				295845767AEC47A392A3C718 /* Ubuntu-Italic.ttf */,
-				50E28570DB8A4A508AA8C5CB /* Ubuntu-Light.ttf */,
+				90B0CE8A1CC247CC9BD5F108 /* Ubuntu-Medium.ttf */,
+				8E72C83A889F4799B11BC1A8 /* Ubuntu-LightItalic.ttf */,
+				D7E8C131FA3B43C7AEC79D05 /* Ubuntu-Regular.ttf */,
+				771F62EC601C44D799689571 /* Ubuntu-Bold.ttf */,
+				5E8AD69C260945F58F55F1A3 /* Ubuntu-MediumItalic.ttf */,
+				F65FD0A6E39648CE95B7D1AE /* Ubuntu-BoldItalic.ttf */,
+				D76F1A184017475EAB28F893 /* Ubuntu-Italic.ttf */,
+				693A0A5D8B6A48248DA065B6 /* Ubuntu-Light.ttf */,
 			);
 			name = Resources;
-			path = "";
 			sourceTree = "<group>";
 		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
@@ -194,14 +193,14 @@
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				9339BEA4CC863F45BFDFB2A7 /* PrivacyInfo.xcprivacy in Resources */,
-				9EF071903CD14FAA92048935 /* Ubuntu-Medium.ttf in Resources */,
-				0CCDDAA084224F8E86C1F399 /* Ubuntu-LightItalic.ttf in Resources */,
-				B107F4378F294A82AEA3A1DC /* Ubuntu-Regular.ttf in Resources */,
-				71ABFD16518B48FD8FE50418 /* Ubuntu-Bold.ttf in Resources */,
-				4B9EB15E3B5E450FACDE744E /* Ubuntu-MediumItalic.ttf in Resources */,
-				6ECD511531D246678B1B304F /* Ubuntu-BoldItalic.ttf in Resources */,
-				B721234BD4F24C04979833EF /* Ubuntu-Italic.ttf in Resources */,
-				DD442CD3EC064A9DAB546229 /* Ubuntu-Light.ttf in Resources */,
+				D4A7BE8CDCAB445AB2DB3F30 /* Ubuntu-Medium.ttf in Resources */,
+				F1FBD61C81C941B2B0822127 /* Ubuntu-LightItalic.ttf in Resources */,
+				59F7DA36F1FE4CCE9C71B8C6 /* Ubuntu-Regular.ttf in Resources */,
+				F9B08444D00A44B98EEDD9D8 /* Ubuntu-Bold.ttf in Resources */,
+				935DA155BEF543748873833C /* Ubuntu-MediumItalic.ttf in Resources */,
+				CCDE19FD200343C7BB5CCA61 /* Ubuntu-BoldItalic.ttf in Resources */,
+				ADE2DC18E0B64A5683125413 /* Ubuntu-Italic.ttf in Resources */,
+				BA917B7A0C5A414382457F1D /* Ubuntu-Light.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -232,9 +231,13 @@
 			inputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-WolfTotemInstinctGuide/Pods-WolfTotemInstinctGuide-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
+			inputPaths = (
+			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-WolfTotemInstinctGuide/Pods-WolfTotemInstinctGuide-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -271,9 +274,13 @@
 			inputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-WolfTotemInstinctGuide/Pods-WolfTotemInstinctGuide-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
+			inputPaths = (
+			);
 			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-WolfTotemInstinctGuide/Pods-WolfTotemInstinctGuide-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -314,7 +321,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.kasdnfk.kfkfs.owqp;
 				PRODUCT_NAME = WolfTotemInstinctGuide;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -341,7 +348,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.kasdnfk.kfkfs.owqp;
 				PRODUCT_NAME = WolfTotemInstinctGuide;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -417,10 +424,7 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					" ",
-				);
+				OTHER_LDFLAGS = "$(inherited)  ";
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) DEBUG";
@@ -489,10 +493,7 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					" ",
-				);
+				OTHER_LDFLAGS = "$(inherited)  ";
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				USE_HERMES = true;

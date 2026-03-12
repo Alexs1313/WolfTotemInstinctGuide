@@ -1,5 +1,5 @@
+import TotemStackRoutes from './Toteminstinctguide/TotemInstinctNav/TotemStackRoutes';
 import { NavigationContainer } from '@react-navigation/native';
-import TotemStackRoutes from './WolfTotemInstinctGuide/TotemInstinctNav/TotemStackRoutes';
 
 const App = () => {
   return (

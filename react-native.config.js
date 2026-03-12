@@ -3,5 +3,5 @@ module.exports = {
     ios: {},
     android: {},
   },
-  assets: ['./WolfTotemInstinctGuide/TotemAssets/f/'],
+  assets: ['./Toteminstinctguide/TotemAssets/f/'],
 };
