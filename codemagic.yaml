@@ -8,9 +8,9 @@ workflows:
     environment:
       ios_signing:
         distribution_type: app_store
-        bundle_identifier: com.hjhhjsha.swjckjakjn
+        bundle_identifier: com.kasdnfk.kfkfs.owqp
       vars:
-        BUNDLE_ID: com.hjhhjsha.swjckjakjn
+        BUNDLE_ID: com.kasdnfk.kfkfs.owqp
         XCODE_WORKSPACE: WolfTotemInstinctGuide.xcworkspace
         XCODE_SCHEME: WolfTotemInstinctGuide
         APP_STORE_APPLE_ID: 6760476372
