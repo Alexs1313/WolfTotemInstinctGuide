@@ -122,7 +122,7 @@ const PhotoModeScreen = ({ navigation }) => {
   };
 
   const handleTotemGuideChoose = () => {
-    if (!totemGuidePhotoUri || totemGuideSelectedAttributeIds.length === 0) {
+    if (totemGuideSelectedAttributeIds.length === 0) {
       return;
     }
 
@@ -219,20 +219,16 @@ const PhotoModeScreen = ({ navigation }) => {
           })}
         </View>
 
-        {totemGuidePhotoUri && totemGuideSelectedAttributeIds.length > 0 && (
+        {totemGuideSelectedAttributeIds.length > 0 && (
           <View style={styles.totemGuidePhotoActionWrap}>
             <TouchableOpacity
               style={styles.totemGuidePhotoActionTouch}
               activeOpacity={0.85}
               onPress={handleTotemGuideChoose}
-              disabled={
-                !totemGuidePhotoUri ||
-                totemGuideSelectedAttributeIds.length === 0
-              }
+              disabled={totemGuideSelectedAttributeIds.length === 0}
             >
               <LinearGradient
                 colors={
-                  totemGuidePhotoUri &&
                   totemGuideSelectedAttributeIds.length > 0
                     ? ['#79080A', '#DF0F12']
                     : ['#8E3A3A', '#B05050']
@@ -325,7 +321,7 @@ const PhotoModeScreen = ({ navigation }) => {
               </TouchableOpacity>
 
               <Text style={styles.totemGuidePhotoTitleText}>
-                Photo totem beast
+                Traits totem beast
               </Text>
             </View>
           </LinearGradient>
