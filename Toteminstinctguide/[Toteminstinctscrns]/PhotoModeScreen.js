@@ -377,7 +377,7 @@ const styles = StyleSheet.create({
     color: '#FAC57F',
     fontSize: 18,
     fontFamily: 'Ubuntu-Bold',
-    width: '90%',
+    width: '80%',
   },
   totemGuidePhotoThumbWrap: {
     width: 88,
